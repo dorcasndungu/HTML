@@ -1,0 +1,21 @@
+h1{
+  color:blue;
+  text-align: center;
+}
+h2{
+  color:green;
+  font-style:italic;
+  text-align:center;
+}
+p{
+  font-family:sans-serif;
+  background-color: pink;
+  font-size:5w
+}
+ul{
+  line-height:40px;
+}
+br{
+  color:green;
+  font-size:200 vw
+}
